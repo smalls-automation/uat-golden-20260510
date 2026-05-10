@@ -1,0 +1,6 @@
+@UatGolden20260510.Api_HostAddress = http://localhost:5083
+
+GET {{UatGolden20260510.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
